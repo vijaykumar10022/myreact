@@ -1,0 +1,65 @@
+{
+    "profiles":[
+        {
+            "basicInformation":{
+                "name":"vijay kumar",
+                "role":"Developer",
+                "email":"vijaykumar.b@gmail.com",
+                "mobile":"+91 9542219884"
+            },
+            "Education":[
+                {
+                    "Degree":"B.tech",
+                    "institution":"CBIT",
+                    "Percentage":"70%"
+                },
+                {
+                    "Degree":"Diplomo",
+                    "institution":"Gov't Polytechnic college",
+                    "Percentage":"80%"
+                },
+                {
+                    "Degree":"SSC",
+                    "institution":"Little Angels",
+                    "Percentage":"80%"
+                }],
+            "skillset":{
+                "webtechnologies":"html5 css Javascript",
+                "programminglanguages":"C Java JavaScript",
+                "operatingsystem":"Linux window",
+                "frameworks":"flask django React spring bootstrap"
+            }
+            
+        },
+        {
+            "basicInformation":{
+                "name":"kumar",
+                "role":"Python Developer",
+                "email":"vijaykumar.b@apssdc.in",
+                "mobile":"+91 8328113925"
+            },
+            "Education":[
+                {
+                    "Degree":"B.tech",
+                    "institution":"CBIT",
+                    "Percentage":"70%"
+                },
+                {
+                    "Degree":"Inter",
+                    "institution":"Depthi Junior College",
+                    "Percentage":"90%"
+                },
+                {
+                    "Degree":"SSC",
+                    "institution":"Pooja Public School",
+                    "Percentage":"90%"
+                }],
+                "skillset":{
+                    "webtechnologies":"html5 css Javascript",
+                    "programminglanguages":"C Java JavaScript",
+                    "operatingsystem":"Linux window",
+                    "frameworks":"React spring bootstrap flask django"
+                }
+        }
+    ]
+}
